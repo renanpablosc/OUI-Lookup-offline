@@ -24,3 +24,5 @@ Identifica o fabricante de qualquer endereço MAC (via OUI) diretamente no naveg
 ## 📄 Licença
 Livre. Sinta-se livre para usar e modificar.
 
+## 💻 Extensão
+<img width="469" height="260" alt="mac vendor offline" src="https://github.com/user-attachments/assets/5becc6f5-0c4c-42e4-a41b-37551810997e" />
