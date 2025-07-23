@@ -1,4 +1,4 @@
-#  🔍 OUI Lookup – Extensão de Navegador
+#  🔍 OUI Lookup Offline – Extensão de Navegador
 Identifica o fabricante de qualquer endereço MAC (via OUI) diretamente no navegador – com base local e funcionamento 100% offline.
 
 ## 🚀 Funcionalidades
